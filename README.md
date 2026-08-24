@@ -14,7 +14,7 @@ https://front-end-tp-1.vercel.app
 
 ## 🔗 Perfil de GitHub
 
-https://github.com/rodrigo12506
+https://github.com/Rodrigo-Molina12506/FrontEndTP1
 
 ## Decisiones de diseño
 
